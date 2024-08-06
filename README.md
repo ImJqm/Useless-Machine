@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/121de9e8-765f-4c37-9c76-da46d48d20fa
 **Parts Needed**
 ----------------
 
--Small Jewlry Box
+-Small Jewelry Box
 
 -Arduino Uno
 
@@ -22,25 +22,25 @@ https://github.com/user-attachments/assets/121de9e8-765f-4c37-9c76-da46d48d20fa
 
 -Soldering Kit
 
--Peice of wood to flick lever; I used a wooden letter C
+-Piece of wood to flick lever; I used a wooden letter C
 
 -Hot Glue Gun
 
 **Electrical Schematic**
 --------------------------------
-*Do note that the schematic and code differentiate slighly. TinkerCAD, the software used to create this model, only has a 3 pin switch, in reality I constructed the machine with a 2 pin switch, wiring one wire to the ground in the breadboard and another to pin #9 in the Arduino
+*Do note that the schematic and code differentiate slightly. [TinkerCAD](https://www.tinkercad.com/things/kMWulgZLL8i-useless-machine?sharecode=5dkIR5VH-87gIND9-IOSwX-LeVgSRr_aGPPudwdT47Y), the software used to create this model, only has a 3 pin switch, in reality I constructed the machine with a 2 pin switch, wiring one wire to the ground in the breadboard and another to pin #9 in the Arduino
 
 ![Screenshot from 2024-08-05 19-08-01](https://github.com/user-attachments/assets/542f2985-4810-46ea-bd47-15915856fb3c)
 
 **Assembly**
 -------------------
-First I started with playing around with the Arduino, Servo, and Lever to make sure everything worked. I soldered 2 jumper wires to my lever as it was not compatbile with the breadboard
+First I started with playing around with the Arduino, Servo, and Lever to make sure everything worked. I soldered 2 jumper wires to my lever as it was not compatible with the breadboard
 
 
 
 https://github.com/user-attachments/assets/65b01f61-1831-4cd1-943e-4a7e41ad4858
 
-Next I used the coping saw to cut the lid of the jewlry box in half, and relocated the hinges to one side.
+Next I used the coping saw to cut the lid of the jewelry box in half, and relocated the hinges to one side.
 
 
 
@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/a624a99f-564d-4510-99a7-c6b319defe8a
 
 
 
-I then proceeded screw the woodnen C to the motor and hot glue the motor to the underside of the lid 
+I then proceeded screw the wooden C to the motor and hot glue the motor to the underside of the lid 
 
 
 
@@ -83,7 +83,7 @@ And we have a useless machine!
 
 **Usage**
 -------------------
-Using the Arduino IDE, flash the code to your arduino set up with a servo and lever the way I have in the schematic, based on what method you use to flcik the lever, the size of your box, and the range of your servo, degress may very. I reccomnend playing around with the motors and lever before assembly.
+Using the Arduino IDE, flash the code to your Arduino set up with a servo and lever the way I have in the schematic, based on what method you use to flick the lever, the size of your box, and the range of your servo, degrees may very. I recommend playing around with the motors and lever before assembly.
 
 **Gallery**
 -------------
@@ -102,3 +102,4 @@ https://github.com/user-attachments/assets/3594afbc-bd89-45ae-b2c6-3186f198626e
 ![IMG_4665](https://github.com/user-attachments/assets/0ed7bb6c-30ac-46f1-b7d6-24e91eb46e59)
 
 ![IMG_4666](https://github.com/user-attachments/assets/bee16bf0-c568-4d43-9e29-5719b847531c)
+
