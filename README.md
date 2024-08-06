@@ -14,17 +14,68 @@ https://github.com/user-attachments/assets/121de9e8-765f-4c37-9c76-da46d48d20fa
 
 -Jumper Wires
 
+-Breadboard
+
 -Servo Motor
 
 -Analog On/Off switch
 
+-Soldering Kit
 
+-Peice of wood to flick lever; I used a wooden letter C
+
+-Hot Glue Gun
 
 **Electrical Schematic**
 --------------------------------
 *Do note that the schematic and code differentiate slighly. TinkerCAD, the software used to create this model, only has a 3 pin switch, in reality I constructed the machine with a 2 pin switch, wiring one wire to the ground in the breadboard and another to pin #9 in the Arduino
 
 ![Screenshot from 2024-08-05 19-08-01](https://github.com/user-attachments/assets/542f2985-4810-46ea-bd47-15915856fb3c)
+
+**Assembly**
+-------------------
+First I started with playing around with the Arduino, Servo, and Lever to make sure everything worked. I soldered 2 jumper wires to my lever as it was not compatbile with the breadboard
+
+
+
+https://github.com/user-attachments/assets/65b01f61-1831-4cd1-943e-4a7e41ad4858
+
+Next I used the coping saw to cut the lid of the jewlry box in half, and relocated the hinges to one side.
+
+
+
+
+
+https://github.com/user-attachments/assets/cf15cf0a-fd23-4df7-97e7-a4b31ed44864
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/a624a99f-564d-4510-99a7-c6b319defe8a
+
+
+
+I then proceeded screw the woodnen C to the motor and hot glue the motor to the underside of the lid 
+
+
+
+https://github.com/user-attachments/assets/917b56bf-846a-42a0-8e7d-94644e7e3835
+
+
+Some final testing
+
+
+
+https://github.com/user-attachments/assets/3acb6f29-c9a1-431e-8684-89bc8cb30e8c
+
+
+
+And we have a useless machine!
+
+
 
 **To Be Added**
 ------------
