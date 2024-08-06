@@ -9,9 +9,13 @@ https://github.com/user-attachments/assets/121de9e8-765f-4c37-9c76-da46d48d20fa
 ----------------
 
 -Small Jewlry Box
+
 -Arduino Uno
+
 -Jumper Wires
+
 -Servo Motor
+
 -Analog On/Off switch
 
 
